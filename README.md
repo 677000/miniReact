@@ -1,3 +1,3 @@
-# react-ts-pzzcvh
+# react-miniReact
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-pzzcvh)
+理解 react 脚手架源码。
